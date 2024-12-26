@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Route principale
 app.get('/', (req, res) => {
-    res.send('Hello hello ayoub');
+    res.send('Hello hello hamdi');
 });
 
 // Route pour gérer le webhook GitHub
